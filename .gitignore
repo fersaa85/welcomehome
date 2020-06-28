@@ -1,0 +1,22 @@
+/node_modules
+/public/hot
+/public/storage
+/public/storage/01 CruzRoja_V1_ESPANOL_HD_H264_25P.mov
+/public/storage/GIF-Netflix-D03_338.mp4
+/public/storage/IMG_4429.MOV
+/public/storage/VID-20200406-WA0000.mp4
+/public/storage/VID-20200407-WA0005.mp4
+/public/storage/VID-20200422-WA0009.mp4
+/public/storage/VID-20200422-WA0010.mp4
+/public/storage/VID-20200423-WA0002.mp4
+/public/video
+/storage/*.key
+/vendor
+.env
+.env.backup
+.idea
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
