@@ -7,7 +7,7 @@
                     <div class="background-display-moviel padding prelative"></div>
                 </div>
                 <a href="images/gallery/fulls/display-07.png" class="image filtered span-3" data-position="bottom"><img src="images/gallery/thumbs/display-07.png" alt="" /></a>
-                <a href="images/gallery/fulls/display-02.png" class="image filtered span-3" data-position="bottom"><img src="images/gallery/thumbs/display-02.png" alt="" /></a>
+                <a href="images/gallery/fulls/display-02a.jpg" class="image filtered span-3" data-position="bottom"><img src="images/gallery/thumbs/display-02a.jpg" alt="" /></a>
                 <div class="span-3 hidden-moviel background-display ">
                     <div class="padding prelative"></div>
                 </div>

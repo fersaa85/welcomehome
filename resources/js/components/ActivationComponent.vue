@@ -18,7 +18,7 @@
                 <div class="span-3 hidden-moviel">
                     <div class="background-activations padding prelative"></div>
                 </div>
-                <a href="images/gallery/fulls/activation-04.png" class="image filtered span-3" data-position="bottom"><img src="images/gallery/thumbs/activation-04.png" alt="" /></a>
+                <a href="images/gallery/fulls/activation-04a.png" class="image filtered span-3" data-position="bottom"><img src="images/gallery/thumbs/activation-04a.png" alt="" /></a>
                 <a href="images/gallery/fulls/actvations-05.png" class="image filtered span-3" data-position="bottom"><img src="images/gallery/thumbs/actvations-05.png" alt="" /></a>
             </div>
         </div>

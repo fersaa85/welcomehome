@@ -38,7 +38,7 @@
                 <h5 class="margin-cero"><strong>Jhanne  Cruz</strong></h5>
                 <p class="margin-cero">Comercial</p>
                 <p class="margin-cero"><span class="icon brands fa-whatsapp"></span>
-                    <a href="https://wa.me/525537176420" target="_blank" class="color-white"> 55 37 17 64 20</a></p>
+                    <a href="https://wa.me/525631139624" target="_blank" class="color-white">56 31 13 96 24</a></p>
                 <p class="margin-cero"><span class="icon brands fa-envelope"></span>
                     <a href="mailto:jhanne@welcomehome.com.mx?Subject=Contacto" target="_blank" class="color-white"> jhanne@welcomehome.com.mx</a></p>
 
@@ -46,7 +46,7 @@
                 <h5 class="margin-cero"><strong>Sandra  Pascacio </strong></h5>
                 <p class="margin-cero">Producción</p>
                 <p class="margin-cero"><span class="icon brands fa-whatsapp"></span>
-                    <a href="https://wa.me/525574952380"  target="_blank" class="color-white"> 55 74 95 23 80</a></p>
+                    <a href="https://wa.me/525631139624"  target="_blank" class="color-white">56 31 13 96 24</a></p>
                 <p class="margin-cero"><span class="icon brands fa-envelope"></span>
                     <a href="mailto:sandra@welcomehome.com.mx?Subject=Contacto" target="_blank" class="color-white"> sandra@welcomehome.com.mx</a></p>
 
